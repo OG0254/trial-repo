@@ -1,1 +1,3 @@
-# The journet to 1milliondevops starts
+# The journey to 1milliondevops starts
+
+- OG 
